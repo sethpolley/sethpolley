@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding
 - 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me - 'aggieseth@tamu.edu'
+- 📫 How to reach me - 'sethpolley27@gmail.com'
 
 <!---
 sethpolley/sethpolley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
